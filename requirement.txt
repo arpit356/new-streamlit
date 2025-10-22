@@ -1,0 +1,8 @@
+streamlit
+numpy
+pillow
+rembg
+scikit-learn
+tensorflow
+onnxruntime
+protobuf
